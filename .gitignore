@@ -1,0 +1,11 @@
+# Dependencies
+node_modules/
+package-lock.json
+
+# Environment
+.env
+
+# Build Scripts & Source
+src/
+build.js
+package.json
