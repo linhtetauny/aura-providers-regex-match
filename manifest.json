@@ -121,6 +121,19 @@
       "formats": ["m3u8"],
       "logo": "https://onepace.co/wp-content/uploads/2024/09/cropped-icons8-monkey-d-luffy-144-192x192.png",
       "contentLanguage": ["en"]
+    },
+    {
+      "id": "zinkmovies",
+      "name": "ZinkMovies",
+      "description": "Movies & WebSeries from zinkmovies.monster (HDVB)",
+      "version": "1.0.0",
+      "author": "piratezoro9",
+      "supportedTypes": ["movie", "tv"],
+      "filename": "providers/zinkmovies.js",
+      "enabled": true,
+      "formats": ["m3u8"],
+      "logo": "https://zinkmovies.monster/wp-content/uploads/2025/02/cropped-photo_5022038112150335812_x-192x192.jpg",
+      "contentLanguage": ["en", "hi", "ta", "te", "bn"]
     }
   ]
 }
