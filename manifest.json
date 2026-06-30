@@ -31,8 +31,8 @@
       "contentLanguage": ["en", "fr"]
     },
     {
-      "id": "cinemm",
-      "name": "CineMM",
+      "id": "channelmyanmar",
+      "name": "channelmyanmar",
       "description": "Direct MP4 streams from cinemm.com",
       "version": "1.0.0",
       "author": "piratezoro9",
